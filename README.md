@@ -1,6 +1,6 @@
 ### Olá, meu nome é Isabel! 👋
 ## Bem vindo ao meu perfil GitHub 👋
-
+<!---
 **Isabel-Valentim/Isabel-Valentim** is a  _special_ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 </div>
   
 ![Snake animation](https://github.com/Isabel-Valentim/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+-->
