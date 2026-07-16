@@ -71,20 +71,3 @@ Data Scientist with almost 3 years of experience in Data Science, Analytics, Mac
 ★ **1st place** — Hack27 Hackathon · Mobile prototype for Samarco `2024`
 ★ **1st place** — InovaApps Hackathon · Web platform for UpCities `2024`
 ★ **6th place (ES)** — SBC Programming Marathon `2024`
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIsabel-Valentim&label=Public%20Repos&query=%24.public_repos&color=1a1b26&style=for-the-badge&logo=github&logoColor=7dcfff)
-
-<img src="https://streak-stats.demolab.com?user=Isabel-Valentim&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions"/>
-
-<a href="https://github.com/Isabel-Valentim">
-  <img height="165em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Isabel-Valentim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/Isabel-Valentim">
-  <img height="165em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Isabel-Valentim&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>

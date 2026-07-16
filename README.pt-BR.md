@@ -72,21 +72,4 @@ Cientista de Dados com quase 3 anos de experiência em Ciência de Dados, Analyt
 ★ **1º lugar** — Hackathon InovaApps · Plataforma web para UpCities `2024`
 ★ **6º lugar (ES)** — Maratona de Programação da SBC `2024`
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Repositórios Públicos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIsabel-Valentim&label=Reposit%C3%B3rios%20P%C3%BAblicos&query=%24.public_repos&color=1a1b26&style=for-the-badge&logo=github&logoColor=7dcfff)
-
-<img src="https://streak-stats.demolab.com?user=Isabel-Valentim&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&locale=pt-BR" alt="Contribuições no GitHub"/>
-
-<a href="https://github.com/Isabel-Valentim">
-  <img height="165em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Isabel-Valentim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/Isabel-Valentim">
-  <img height="165em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Isabel-Valentim&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
 <!--fontes dos ícones: https://devicon.dev/ e https://simpleicons.org/ -->
