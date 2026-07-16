@@ -1,36 +1,36 @@
 <div align="center">
 
-[![Português](https://img.shields.io/badge/🇧🇷_Ler_em-Português-1a1b26?style=for-the-badge&logoColor=9ece6a)](README.pt-BR.md)
+[![English](https://img.shields.io/badge/🇺🇸_Read_in-English-1a1b26?style=for-the-badge&logoColor=7aa2f7)](README.md)
 
-# Hi, I'm Isabel Valentim 👋
+# Olá, eu sou a Isabel Valentim 👋
 
-### Data Scientist · Python · Machine Learning & AI · Computer Science
+### Cientista de Dados · Python · Machine Learning & IA · Ciência da Computação
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Machine+Learning;NLP%2C+Transformers+%26+SBERT;%2B9%2C000h+saved+through+automation;4x+tech+hackathon+winner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Cientista+de+Dados+%7C+Machine+Learning;NLP%2C+Transformers+e+SBERT;%2B9.000h+economizadas+em+automa%C3%A7%C3%B5es;4x+campe%C3%A3+em+hackathons+de+tecnologia)](https://git.io/typing-svg)
 
 
 
-📫 Get in touch:
+📫 Entre em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/isabel-valentim-25b8581a2/)
 [![Gmail](https://img.shields.io/badge/Gmail-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:isabelvalentim03@gmail.com)
 
 </div>
 
-## 💡 About Me
+## 💡 Sobre mim
 
-Data Scientist with almost 3 years of experience in Data Science, Analytics, Machine Learning and Natural Language Processing (NLP). I've built data solutions that **saved more than 9,000 hours of manual work** and **cut candidate screening time by 60%**.
+Cientista de Dados com quase 3 anos de experiência em Ciência de Dados, Analytics, Machine Learning e Processamento de Linguagem Natural (PLN). Já desenvolvi soluções que **economizaram mais de 9.000 horas de trabalho manual** e **reduziram em 60% o tempo de triagem de candidatos**.
 
-- 🔭 Currently working as a **Data Scientist at Grupo Autoglass**
-- 💬 Ask me about Transformers, SBERT, Clustering, or Topic Modeling
-- 🌱 Deepening my knowledge of LLMs, RAG, and language model fine-tuning
-- 🎓 Final-semester Computer Science student at Universidade Vila Velha (UVV)
-- 🏳️ Co-founder and President of the **first Women in Tech League of Espírito Santo**
+- 🔭 Atualmente trabalhando como **Cientista de Dados no Grupo Autoglass**
+- 💬 Pergunte-me sobre Transformers, SBERT, Clustering ou Topic Modeling
+- 🌱 Aprofundando conhecimento em LLMs, RAG e fine-tuning de modelos de linguagem
+- 🎓 Estudante do último período de Ciência da Computação na Universidade Vila Velha (UVV)
+- 🏳️ Cofundadora e Presidente da **primeira Liga Feminina de TI do Espírito Santo**
 
 
 ## 🛠️ Skills
 
-**Languages, Data & Tools**
+**Linguagens, Dados & Ferramentas**
 
 ![Python](https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=7aa2f7)
 ![SQL](https://img.shields.io/badge/SQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=9ece6a)
@@ -41,7 +41,7 @@ Data Scientist with almost 3 years of experience in Data Science, Analytics, Mac
 ![Streamlit](https://img.shields.io/badge/Streamlit-1a1b26?style=for-the-badge&logo=streamlit&logoColor=e0af68)
 ![Tableau](https://img.shields.io/badge/Tableau-1a1b26?style=for-the-badge&logo=tableau&logoColor=7aa2f7)
 
-**AI, Machine Learning & NLP**
+**IA, Machine Learning & NLP**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1b26?style=for-the-badge&logo=scikitlearn&logoColor=f7768e)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1a1b26?style=for-the-badge&logo=pytorch&logoColor=e0af68)
@@ -53,32 +53,32 @@ Data Scientist with almost 3 years of experience in Data Science, Analytics, Mac
 ![Fine Tuning](https://img.shields.io/badge/Fine%20Tuning-1a1b26?style=for-the-badge&logoColor=f7768e)
 ![Clustering](https://img.shields.io/badge/Clustering-1a1b26?style=for-the-badge&logoColor=7dcfff)
 ![Topic Modeling](https://img.shields.io/badge/Topic%20Modeling-1a1b26?style=for-the-badge&logoColor=9ece6a)
-![Information Retrieval](https://img.shields.io/badge/Information%20Retrieval-1a1b26?style=for-the-badge&logoColor=bb9af7)
+![Recuperação de Informação](https://img.shields.io/badge/Recupera%C3%A7%C3%A3o%20de%20Informa%C3%A7%C3%A3o-1a1b26?style=for-the-badge&logoColor=bb9af7)
 
 **Analytics, APIs & Data Apps**
 
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-1a1b26?style=for-the-badge&logoColor=7aa2f7)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-1a1b26?style=for-the-badge&logo=selenium&logoColor=9ece6a)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-1a1b26?style=for-the-badge&logo=plotly&logoColor=e0af68)
-![Statistics](https://img.shields.io/badge/Statistics-1a1b26?style=for-the-badge&logoColor=f7768e)
+![Visualização de Dados](https://img.shields.io/badge/Visualiza%C3%A7%C3%A3o%20de%20Dados-1a1b26?style=for-the-badge&logo=plotly&logoColor=e0af68)
+![Estatística](https://img.shields.io/badge/Estat%C3%ADstica-1a1b26?style=for-the-badge&logoColor=f7768e)
 ![Data Apps](https://img.shields.io/badge/Data%20Apps-1a1b26?style=for-the-badge&logo=streamlit&logoColor=7dcfff)
 
 
-## 🏆 Awards & Competitions
+## 🏆 Prêmios & Competições
 
-★ **2nd place** — InovaApps Hackathon · Intelligent knowledge base with RAG (OpenAI) `2025`
-★ **National semifinalist** — Campus Mobile, Smart Cities category (1,056 teams) `2025`
-★ **1st place** — Hack27 Hackathon · Mobile prototype for Samarco `2024`
-★ **1st place** — InovaApps Hackathon · Web platform for UpCities `2024`
-★ **6th place (ES)** — SBC Programming Marathon `2024`
+★ **2º lugar** — Hackathon InovaApps · Base de conhecimento inteligente com RAG (OpenAI) `2025`
+★ **Semifinalista nacional** — Campus Mobile, categoria Cidades Inteligentes (1.056 equipes) `2025`
+★ **1º lugar** — Hackathon Hack27 · Protótipo mobile para a Samarco `2024`
+★ **1º lugar** — Hackathon InovaApps · Plataforma web para UpCities `2024`
+★ **6º lugar (ES)** — Maratona de Programação da SBC `2024`
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIsabel-Valentim&label=Public%20Repos&query=%24.public_repos&color=1a1b26&style=for-the-badge&logo=github&logoColor=7dcfff)
+![Repositórios Públicos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIsabel-Valentim&label=Reposit%C3%B3rios%20P%C3%BAblicos&query=%24.public_repos&color=1a1b26&style=for-the-badge&logo=github&logoColor=7dcfff)
 
-<img src="https://streak-stats.demolab.com?user=Isabel-Valentim&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions"/>
+<img src="https://streak-stats.demolab.com?user=Isabel-Valentim&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&locale=pt-BR" alt="Contribuições no GitHub"/>
 
 <a href="https://github.com/Isabel-Valentim">
   <img height="165em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Isabel-Valentim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -88,3 +88,5 @@ Data Scientist with almost 3 years of experience in Data Science, Analytics, Mac
 </a>
 
 </div>
+
+<!--fontes dos ícones: https://devicon.dev/ e https://simpleicons.org/ -->
