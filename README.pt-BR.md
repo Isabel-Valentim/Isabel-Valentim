@@ -4,7 +4,7 @@
 
 # Olá, eu sou a Isabel Valentim 👋
 
-### Cientista de Dados · Python · Machine Learning & IA · Ciência da Computação
+###  AI Engineer · Cientista de Dados · Python · Machine Learning & IA · Ciência da Computação
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Cientista+de+Dados+%7C+Machine+Learning;NLP%2C+Transformers+e+SBERT;%2B9.000h+economizadas+em+automa%C3%A7%C3%B5es;4x+campe%C3%A3+em+hackathons+de+tecnologia)](https://git.io/typing-svg)
 
