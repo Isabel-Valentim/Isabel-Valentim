@@ -4,7 +4,7 @@
 
 # Hi, I'm Isabel Valentim 👋
 
-### Data Scientist · Python · Machine Learning & AI · Computer Science
+### AI Engineer · Data Scientist · Python · Machine Learning & AI · Computer Science
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Machine+Learning;NLP%2C+Transformers+%26+SBERT;%2B9%2C000h+saved+through+automation;4x+tech+hackathon+winner)](https://git.io/typing-svg)
 
