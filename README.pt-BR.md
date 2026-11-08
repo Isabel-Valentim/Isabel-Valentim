@@ -4,7 +4,7 @@
 
 # Olá, eu sou a Isabel Valentim 👋
 
-### AI Engineer · LLMs · RAG · Agentes de IA · NLP · Python
+### AI Engineer · Cientista de Dados · Machine Learning · LLMs · RAG · NLP · Python
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+IA+Generativa;RAG%2C+Agentes+e+Avalia%C3%A7%C3%A3o+de+LLMs;NLP%2C+Transformers+e+SBERT;%2B9.000h+economizadas+em+automa%C3%A7%C3%B5es)](https://git.io/typing-svg)
 
